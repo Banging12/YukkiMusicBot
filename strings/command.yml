@@ -11,13 +11,13 @@
 # Commands in Every Language
 
 # Bot Commands
-PING_COMMAND : ["ping"]
-START_COMMAND : ["start"]
-HELP_COMMAND : ["help"]
+PING_COMMAND : ["pong"]
+START_COMMAND : ["saxsux"]
+HELP_COMMAND : ["sahaita"]
 SETTINGS_COMMAND : ["settings", "setting"]
 RELOAD_COMMAND : ["admincache", "reload"]
-GSTATS_COMMAND : ["gstats"]
-STATS_COMMAND : ["stats"]
+GSTATS_COMMAND : ["gsta"]
+STATS_COMMAND : ["sta"]
 LANGUAGE_COMMAND : ["lang", "language", "langs"]
 
 # Play Commands
